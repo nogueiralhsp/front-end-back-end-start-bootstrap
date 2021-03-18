@@ -9,4 +9,14 @@ Found on url:
 https://www.freecodecamp.org/news/create-a-react-frontend-a-node-express-backend-and-connect-them-together-c5798926047c/
 
 Feel free to use and modify!
+
+Instructions to start up:
+
+API
+In the terminal go to api folder, command "cd api" from myBootStrap folder then execute the command "npm start"
+
+Client
+Same idea, in the terminal go to client folder and execute the command "yarn start"
+
+
 Happy coding!
