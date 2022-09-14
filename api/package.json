@@ -17,5 +17,8 @@
   "description": "gamblel2 project",
   "main": "app.js",
   "author": "luiz2",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
