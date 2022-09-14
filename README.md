@@ -1,7 +1,7 @@
 Simple bootstrap/template put together to start project
 Used as reference the tutorial on how to create a React frontend and a Node/Express backend and connect them
 
-Prepared this to myself and my brother (and best friend) sujested I could share on github.
+Prepared this to myself and my brother (and best friend) who sujested I could share on github.
 
 Not rocket science, just tided up to the way I'm learning to start my projects.
 
